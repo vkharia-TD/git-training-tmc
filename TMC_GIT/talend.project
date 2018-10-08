@@ -487,4 +487,29 @@
     <migrationTask xmi:id="_LjN55cr6EeiFRIF_DoOF8Q" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_I4mFUsr6EeiFRIF_DoOF8Q" login="vkharia@csm.talend.com" firstName="Vimugdha" lastName="Kharia" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gtgMr8EeiFRIF_DoOF8Q" login="cvigor@csm.talend.com" firstName="Craig" lastName="Vigor" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gtgcr8EeiFRIF_DoOF8Q" login="aleduc@csm.talend.com" firstName="Alban" lastName="Leduc" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gtgsr8EeiFRIF_DoOF8Q" login="mgainhao@csm.talend.com" firstName="Michael" lastName="Gainhao" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gtg8r8EeiFRIF_DoOF8Q" login="bbarranco@csm.talend.com" firstName="Benoit" lastName="Barranco" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gthMr8EeiFRIF_DoOF8Q" login="pnomikos@csm.talend.com" firstName="Petros" lastName="Nomikos" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gthcr8EeiFRIF_DoOF8Q" login="lgangadharaiah@csm.talend.com" firstName="Lokesh" lastName="Gangadharaiah" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gthsr8EeiFRIF_DoOF8Q" login="sfranczuk@csm.talend.com" firstName="Stefan" lastName="Franczuk" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gth8r8EeiFRIF_DoOF8Q" login="test_lokesh@csm.talend.com" firstName="Test" lastName="Lokesh" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gtiMr8EeiFRIF_DoOF8Q" login="rsree@csm.talend.com" firstName="Rekha" lastName="Sree" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gticr8EeiFRIF_DoOF8Q" login="ahendrickson@csm.talend.com" firstName="Aaron" lastName="Hendrickson" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4gtisr8EeiFRIF_DoOF8Q" login="zjaveed@csm.talend.com" firstName="Zeeshan" lastName="Javeed" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3cMr8EeiFRIF_DoOF8Q" login="iburtally@csm.talend.com" firstName="Irshad" lastName="Burtally" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3ccr8EeiFRIF_DoOF8Q" login="vsundaram@csm.talend.com" firstName="Venkatachalam" lastName="Sundaram" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3csr8EeiFRIF_DoOF8Q" login="ckellerman@csm.talend.com" firstName="Chris" lastName="Kellerman" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3c8r8EeiFRIF_DoOF8Q" login="rredhead@csm.talend.com" firstName="Robert" lastName="Redhead" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3dMr8EeiFRIF_DoOF8Q" login="danderson@csm.talend.com" firstName="Dale" lastName="Anderson" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3dcr8EeiFRIF_DoOF8Q" login="fkhan@csm.talend.com" firstName="Faisal" lastName="Khan" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3dsr8EeiFRIF_DoOF8Q" login="jmcgee@csm.talend.com" firstName="James" lastName="McGee" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3d8r8EeiFRIF_DoOF8Q" login="svadlamudi@csm.talend.com" firstName="Srini" lastName="Vadlamudi" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3eMr8EeiFRIF_DoOF8Q" login="ashain@csm.talend.com" firstName="Al" lastName="Shain" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3ecr8EeiFRIF_DoOF8Q" login="mverrilli@csm.talend.com" firstName="Michael" lastName="Verrilli" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3esr8EeiFRIF_DoOF8Q" login="jkerr@csm.talend.com" firstName="Jeff" lastName="Kerr" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3e8r8EeiFRIF_DoOF8Q" login="adennis@csm.talend.com" firstName="Alan" lastName="Dennis" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3fMr8EeiFRIF_DoOF8Q" login="akhorana@csm.talend.com" firstName="Ashish" lastName="Khorana" type="DQ"/>
+  <TalendProperties:User xmi:id="_x4p3fcr8EeiFRIF_DoOF8Q" login="cmullins@csm.talend.com" firstName="Christina" lastName="Mullins" type="DQ"/>
 </xmi:XMI>
